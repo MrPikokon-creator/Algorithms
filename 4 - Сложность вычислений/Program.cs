@@ -14,9 +14,12 @@ namespace ConsoleApp
         {
             int[] numbersArray;
 
+            Generator generator = new Generator(1_000_000);
+            generator.Best(); // Холостой прогон
+            
             foreach (int length in _listsLengths)
             {
-                Generator generator = new Generator(length);
+                generator = new Generator(length);
 
                 numbersArray = generator.Best(); // Лучший случай
                 Stopwatch(numbersArray);
