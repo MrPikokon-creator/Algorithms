@@ -1,6 +1,0 @@
-C:\Users\Konstantin\Desktop\Новая папка\Finding\Finding\bin\Debug\Finding.exe
-C:\Users\Konstantin\Desktop\Новая папка\Finding\Finding\bin\Debug\Finding.pdb
-C:\Users\Konstantin\Desktop\Новая папка\Finding\Finding\obj\Debug\Finding.csproj.AssemblyReference.cache
-C:\Users\Konstantin\Desktop\Новая папка\Finding\Finding\obj\Debug\Finding.csproj.CoreCompileInputs.cache
-C:\Users\Konstantin\Desktop\Новая папка\Finding\Finding\obj\Debug\Finding.exe
-C:\Users\Konstantin\Desktop\Новая папка\Finding\Finding\obj\Debug\Finding.pdb
