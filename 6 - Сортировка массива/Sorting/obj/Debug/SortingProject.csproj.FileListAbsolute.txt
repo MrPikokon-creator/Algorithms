@@ -1,6 +1,0 @@
-C:\Users\Konstantin\Desktop\Новая папка\SortingProject\SortingProject\bin\Debug\SortingProject.exe
-C:\Users\Konstantin\Desktop\Новая папка\SortingProject\SortingProject\bin\Debug\SortingProject.pdb
-C:\Users\Konstantin\Desktop\Новая папка\SortingProject\SortingProject\obj\Debug\SortingProject.csproj.AssemblyReference.cache
-C:\Users\Konstantin\Desktop\Новая папка\SortingProject\SortingProject\obj\Debug\SortingProject.csproj.CoreCompileInputs.cache
-C:\Users\Konstantin\Desktop\Новая папка\SortingProject\SortingProject\obj\Debug\SortingProject.exe
-C:\Users\Konstantin\Desktop\Новая папка\SortingProject\SortingProject\obj\Debug\SortingProject.pdb
